@@ -35,6 +35,7 @@ Clicking See More sends the product ID via URL.
 The product page reads the ID and displays product details dynamically.
 ---
 🖥️ Live Demo
+https://omid-shamkhali.github.io/frontend-product-page/
 
 ---
 📌 Technologies Used
