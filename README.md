@@ -3,7 +3,10 @@
 A simple and clean **product catalog project** built using **HTML, CSS, and Vanilla JavaScript**.  
 This project demonstrates dynamic product rendering and navigation to a product details page using **URL parameters**.
 
+🔗 Live Demo
 ---
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://omid-shamkhali.github.io/frontend-product-page/)
+
 
 ## 🚀 Features
 
@@ -25,6 +28,7 @@ This project demonstrates dynamic product rendering and navigation to a product 
 
 ---
 ⚙️ How It Works
+---
 
 Products are stored in a JavaScript array.
 
@@ -33,18 +37,17 @@ Products are rendered dynamically on the main page.
 Clicking See More sends the product ID via URL.
 
 The product page reads the ID and displays product details dynamically.
----
-🖥️ Live Demo
-https://omid-shamkhali.github.io/frontend-product-page/
+
 
 ---
 📌 Technologies Used
+---
 
 HTML5
 
 CSS3
 
 JavaScript (Vanilla)
----
+
 
 
