@@ -1,7 +1,12 @@
 # 🛍️ Simple Product Catalog
 
-A simple and clean **product catalog project** built using **HTML, CSS, and Vanilla JavaScript**.  
-This project demonstrates dynamic product rendering and navigation to a product details page using **URL parameters**.
+Built a dynamic product catalog using vanilla JavaScript.
+
+→ Products rendered from a JavaScript array (no hardcoded HTML)
+→ Click any product to view full details on a separate page
+→ Product data passed between pages using URL parameters
+→ Clean separation: HTML / CSS / JS in separate files
+→ No frameworks,pure JavaScript only
 
 🔗 Live Demo
 ---
